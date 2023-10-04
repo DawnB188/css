@@ -1,0 +1,17 @@
+body {
+    font-size: 15pt;
+    background: rgb(135, 222, 215);
+}
+
+h1 {
+    color: brown;
+}
+
+
+img {
+    width: 500px;
+}
+
+ul {
+    font-family: Arial, sans-serif;
+}
